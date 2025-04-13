@@ -37,11 +37,11 @@ A frontend developer passionate about minimal UI, smooth UX, and lifelong learni
 
 
 | Project | Description | Tech Stack |
-|--------|-------------|------------|
+|--------|-------------|------------|------------|
 
-| [🎬 **Movie App**](movie-site-topaz.vercel.app) | A movie app using APIs and Supabase | React, Redux Toolkit, Tailwind |
-| [📊 **Admin Dashboard**](admin-dashboard-alpha-five-14.vercel.app) | Responsive admin dashboard | React, MUI |
-| [🌤 **Weather App**](weather-app-sand-alpha.vercel.app) | A simple weather application | React, Axios |
+| 🎬 **Movie App** | A movie app using APIs and Supabase | React, Redux Toolkit, Tailwind | [Live](https://movie-site-topaz.vercel.app) • [GitHub](https://github.com/mahya-rastegarii/movie-app) |
+| 📊 **Admin Dashboard** | Responsive admin dashboard | React, MUI | [Live](https://admin-dashboard-alpha-five-14.vercel.app) • [GitHub](https://github.com/mahya-rastegarii/admin-dashboard) |
+| 🌤 **Weather App** | A simple weather application | React, Axios | [Live](https://weather-app-sand-alpha.vercel.app) • [GitHub](https://github.com/mahya-rastegarii/weather-app) |
 
 
 ---
