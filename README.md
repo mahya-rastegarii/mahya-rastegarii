@@ -38,7 +38,7 @@ A frontend developer passionate about minimal UI, smooth UX, and lifelong learni
 
 | Project | Description | Tech Stack | Links |
 |--------|-------------|------------|-------|
-| 🎬 **Movie App** | A movie app using APIs and Supabase | React, Redux Toolkit, Tailwind | [Live](https://movie-site-topaz.vercel.app) • [GitHub](https://github.com/mahya-rastegarii/movie-app) |
+| 🎬 **Movie App** | A movie app using APIs and Supabase | React, Redux Toolkit, Tailwind | [Live](https://movie-site-topaz.vercel.app) • [GitHub](https://github.com/mahya-rastegarii/movieSite.git) |
 | 📊 **Admin Dashboard** | Responsive admin dashboard | React, MUI | [Live](https://admin-dashboard-alpha-five-14.vercel.app) • [GitHub](https://github.com/mahya-rastegarii/admin-dashboard) |
 | 🌤 **Weather App** | A simple weather application | React, Axios | [Live](https://weather-app-sand-alpha.vercel.app) • [GitHub](https://github.com/mahya-rastegarii/weather-app) |
 
@@ -46,8 +46,8 @@ A frontend developer passionate about minimal UI, smooth UX, and lifelong learni
 ---
 ## 📫 ارتباط با من | Let’s Connect
 
-- [LinkedIn | لینکدین](https://www.linkedin.com/in/mahya-rastegari-1380m843)  
-- [My Portfolio | پورتفولیوی شخصی](https://your-portfolio-link.vercel.app)  
+- 🔗 [LinkedIn | لینکدین](https://www.linkedin.com/in/mahya-rastegari-1380m843)  
+- 🌐 [My Portfolio | پورتفولیوی شخصی](https://your-portfolio-link.vercel.app)  
 - 📧 Email: mahyarastegarii@gmail.com 
 
 ---
