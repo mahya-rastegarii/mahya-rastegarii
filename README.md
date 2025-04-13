@@ -54,8 +54,14 @@ A frontend developer passionate about minimal UI, smooth UX, and lifelong learni
 
 ## 📈 GitHub Stats | آمار گیت‌هاب
 
-  ![Mahya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahya-rastegarii&show_icons=true&hide_title=true&count_private=true&hide=prs)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahya-rastegarii&layout=compact)
+<p align="center" style="margin-bottom: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahya-rastegarii&show_icons=true&hide_title=true&count_private=true&hide=prs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahya-rastegarii&layout=compact" />
+</p>
+
 
 
 ---
