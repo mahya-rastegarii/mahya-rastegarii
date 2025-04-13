@@ -36,7 +36,7 @@ A frontend developer passionate about minimal UI, smooth UX, and lifelong learni
 ## 🚀 پروژه‌ها | My Projects
 
 
-| Project | Description | Tech Stack |
+| Project | Description | Tech Stack  | Links |
 |--------|-------------|------------|------------|
 
 | 🎬 **Movie App** | A movie app using APIs and Supabase | React, Redux Toolkit, Tailwind | [Live](https://movie-site-topaz.vercel.app) • [GitHub](https://github.com/mahya-rastegarii/movie-app) |
