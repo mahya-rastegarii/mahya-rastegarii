@@ -1,4 +1,4 @@
-<h1 align="center">✨ محیا رستگاری | Mahya Rastegari ✨</h1>
+<h1 align="center" style="color:#f39c12;">✨ محیا رستگاری | Mahya Rastegari ✨</h1>
 
 <p align="center">
 فرانت‌اند دولوپر عاشق طراحی ساده، تجربه کاربری جذاب و یادگیری مستمر  
@@ -38,17 +38,18 @@ A frontend developer passionate about minimal UI, smooth UX, and lifelong learni
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🎬 **Movie App** | A movie app using APIs and Supabase | React, Redux, Tailwind |
-| 📊 **Admin Dashboard** | Responsive admin dashboard | React, Chart.js |
-| 🌤 **Weather App** | A simple weather application | React, Axios |
+
+| [🎬 **Movie App**](movie-site-topaz.vercel.app) | A movie app using APIs and Supabase | React, Redux Toolkit, Tailwind |
+| [📊 **Admin Dashboard**](admin-dashboard-alpha-five-14.vercel.app) | Responsive admin dashboard | React, MUI |
+| [🌤 **Weather App**](weather-app-sand-alpha.vercel.app) | A simple weather application | React, Axios |
 
 
 ---
 
 ## 📫 ارتباط با من | Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/mahya-rastegari-1380m843)  
-- [My Portfolio](https://your-portfolio-link.vercel.app)  
+- [LinkedIn | لینکدین](https://www.linkedin.com/in/mahya-rastegari-1380m843)  
+- [My Portfolio | پورتفولیوی شخصی](https://your-portfolio-link.vercel.app)  
 - 📧 Email: mahyarastegarii@gmail.com 
 
 ---
