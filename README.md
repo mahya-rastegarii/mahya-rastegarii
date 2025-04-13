@@ -8,7 +8,7 @@ A frontend developer passionate about minimal UI, smooth UX, and lifelong learni
 
 ---
 
-## 🧠 درباره من | About Me
+## 🧠 About Me | درباره من 
 
 - 🎓 Bachelor’s degree in Software Engineering  | فارغ‌التحصیل رشته مهندسی نرم‌افزار
 - 💻 Passionate about modern web development and up-to-date tech | عاشق توسعه وب مدرن و تکنولوژی‌های روز
@@ -21,7 +21,7 @@ A frontend developer passionate about minimal UI, smooth UX, and lifelong learni
 
 ---
 
-## 🛠 مهارت‌های من | Tech Stack
+## 🛠 Tech Stack | مهارت‌های من 
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&style=flat)
@@ -33,7 +33,7 @@ A frontend developer passionate about minimal UI, smooth UX, and lifelong learni
 
 ---
 
-## 🚀 پروژه‌ها | My Projects
+## 🚀 My Projects | پروژه‌ها
 
 
 | Project | Description | Tech Stack | Links |
@@ -44,7 +44,7 @@ A frontend developer passionate about minimal UI, smooth UX, and lifelong learni
 
 
 ---
-## 📫 ارتباط با من | Let’s Connect
+## 📫 Let’s Connect | ارتباط با من
 
 - 🔗 [LinkedIn | لینکدین](https://www.linkedin.com/in/mahya-rastegari-1380m843)  
 - 🌐 [My Portfolio | پورتفولیوی شخصی](https://your-portfolio-link.vercel.app)  
@@ -52,7 +52,7 @@ A frontend developer passionate about minimal UI, smooth UX, and lifelong learni
 
 ---
 
-## 📈 آمار گیت‌هاب | GitHub Stats
+## 📈 GitHub Stats | آمار گیت‌هاب
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahya-rastegarii&show_icons=true&theme=tokyonight" />
 </p>
