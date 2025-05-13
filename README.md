@@ -47,7 +47,7 @@ A frontend developer passionate about minimal UI, smooth UX, and lifelong learni
 ## 📫 Let’s Connect | ارتباط با من
 
 - 🔗 [LinkedIn | لینکدین](https://www.linkedin.com/in/mahya-rastegari-1380m843)  
-- 🌐 [My Portfolio | پورتفولیوی شخصی](https://your-portfolio-link.vercel.app)  
+- 🌐 [My Portfolio | پورتفولیوی شخصی](https://portfolio-website-nu-three-50.vercel.app/)  
 - 📧 Email: mahyarastegarii@gmail.com 
 
 ---
